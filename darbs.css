@@ -1,15 +1,20 @@
 body{
-    
+    background-color: lightgreen;
 }
 h1{
     color: rgb(236, 240, 18);
-    text-align:  ;
+    text-align: right ;
 }
 table, th, td {
     border: 3px solid rgb(16, 47, 223);
   }
 
-img{
-      
+img {
+    border: 3px dotted red;
+    border-radius: 10%;  
+
     
+  }
+  div {
+    background-color: lightskyblue;
   }
